@@ -7,25 +7,6 @@ export default function MyApp(){
     <SafeAreaView>
       <ScrollView>
         <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
-        <ThemedText type='title'>Hello World!</ThemedText>
       </ScrollView>
     </SafeAreaView>
   )
